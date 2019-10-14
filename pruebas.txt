@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aquí le hice un cambi al archivo
+=======
+Este es un cambio
+>>>>>>> 3a4823eb40be2f5b9c9a8c196500c4c900a65518
